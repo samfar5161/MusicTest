@@ -1,0 +1,7 @@
+C:\Users\Ashton\source\repos\MusicTest\MusicTest\obj\Debug\MusicTest.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\MusicTest\MusicTest\obj\Debug\MusicTest.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\MusicTest\MusicTest\bin\Debug\MusicTest.exe.config
+C:\Users\Ashton\source\repos\MusicTest\MusicTest\bin\Debug\MusicTest.exe
+C:\Users\Ashton\source\repos\MusicTest\MusicTest\bin\Debug\MusicTest.pdb
+C:\Users\Ashton\source\repos\MusicTest\MusicTest\obj\Debug\MusicTest.exe
+C:\Users\Ashton\source\repos\MusicTest\MusicTest\obj\Debug\MusicTest.pdb

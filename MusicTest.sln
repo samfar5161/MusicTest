@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicTest", "MusicTest\MusicTest.csproj", "{8446AB4A-35DC-46B9-8ED5-D456F6DE5427}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicTestGUI", "MusicTestGUI\MusicTestGUI.csproj", "{B71B7C03-931F-4B5A-A431-86B4FEA51E62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "Strings\Strings.csproj", "{654FB77F-2D8E-4FB5-AFF2-27C7FC8D13A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8446AB4A-35DC-46B9-8ED5-D456F6DE5427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8446AB4A-35DC-46B9-8ED5-D456F6DE5427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8446AB4A-35DC-46B9-8ED5-D456F6DE5427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8446AB4A-35DC-46B9-8ED5-D456F6DE5427}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B71B7C03-931F-4B5A-A431-86B4FEA51E62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B71B7C03-931F-4B5A-A431-86B4FEA51E62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B71B7C03-931F-4B5A-A431-86B4FEA51E62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B71B7C03-931F-4B5A-A431-86B4FEA51E62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{654FB77F-2D8E-4FB5-AFF2-27C7FC8D13A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{654FB77F-2D8E-4FB5-AFF2-27C7FC8D13A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{654FB77F-2D8E-4FB5-AFF2-27C7FC8D13A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{654FB77F-2D8E-4FB5-AFF2-27C7FC8D13A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87D12EDA-5A4F-4022-86B4-821B29765B93}
+	EndGlobalSection
+EndGlobal

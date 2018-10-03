@@ -1,0 +1,12 @@
+C:\Users\Ashton\source\repos\MusicTest\MusicTestGUI\bin\Debug\MusicTestGUI.exe.config
+C:\Users\Ashton\source\repos\MusicTest\MusicTestGUI\bin\Debug\MusicTestGUI.exe
+C:\Users\Ashton\source\repos\MusicTest\MusicTestGUI\bin\Debug\MusicTestGUI.pdb
+C:\Users\Ashton\source\repos\MusicTest\MusicTestGUI\bin\Debug\Svg.dll
+C:\Users\Ashton\source\repos\MusicTest\MusicTestGUI\obj\Debug\MusicTestGUI.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\MusicTest\MusicTestGUI\obj\Debug\MusicTestGUI.Fretboard.resources
+C:\Users\Ashton\source\repos\MusicTest\MusicTestGUI\obj\Debug\MusicTestGUI.Properties.Resources.resources
+C:\Users\Ashton\source\repos\MusicTest\MusicTestGUI\obj\Debug\MusicTestGUI.csproj.GenerateResource.cache
+C:\Users\Ashton\source\repos\MusicTest\MusicTestGUI\obj\Debug\MusicTestGUI.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\MusicTest\MusicTestGUI\obj\Debug\MusicTestGUI.csproj.CopyComplete
+C:\Users\Ashton\source\repos\MusicTest\MusicTestGUI\obj\Debug\MusicTestGUI.exe
+C:\Users\Ashton\source\repos\MusicTest\MusicTestGUI\obj\Debug\MusicTestGUI.pdb

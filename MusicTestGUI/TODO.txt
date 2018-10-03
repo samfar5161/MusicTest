@@ -1,0 +1,64 @@
+﻿TODO for 
+"Strings" Application
+
+* = To Do
+
+START.
+
+1. Choose better name. 
+
+2. Remake solution to MVC design pattern. *
+
+	CLASSES
+		Notes
+			Dictionary List of all notes in 1 octave.
+
+		MajorScale *
+			Use NOTES class to build:
+				Major Scale
+				Chords for Major Scale *
+					*Build logic using numbered octave. *
+				Modes for Major Scale *
+					*Build logic using numbered octave. *
+
+		MinorScale *
+			Use NOTES class to build:
+				Minor Scale *
+				Chords for Minor Scale *
+					*Build logic using numbered octave. *
+				Modes for Minor Scale *
+					*Build logic using numbered octave. *
+
+	RESOURCES *
+
+		IMAGES *
+			Fretboard_Guitar.xml *
+			Fretboard_Bass_Guitar.xml *
+			Fretboard_Ukelele.xml *
+			Keys_Piano.xml *
+
+			*Rebuild "Fretboard_Guiar.xml" with octave numbers. Example: "F1", "F#1", "F2", "F#2".
+			*Build logic in classes to handle these changes.
+
+	USER INTERFACE *
+
+		- Separate windows for each component *
+		- master window *
+			- Key selection *
+			- Instrument selection *
+			- Controls for opening other windows (fretboard, chord charts, modes, etc.) *
+			- Main Menu (File, Edit, View, Help, etc.) *
+
+		SEPARATE WINDOWS FOR
+			Fretboard *
+			Chords *
+			Modes *
+
+			- Fretboard and Modes should be combined in some ways if possible.
+
+		MENU FOR
+			Showing / hiding windows *
+			Selecting colors for chord markers *
+			Saving fretboard charts, chord charts, modal charts, etc. *
+
+END.
